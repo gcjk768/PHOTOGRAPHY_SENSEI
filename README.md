@@ -1,5 +1,7 @@
 # 📸 Photo Sensei
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-39D353?style=flat-square)](LICENSE)
+
 An **Obsidian vault** that is also a **Claude Code project**: send a photo via Telegram and a squad of
 AI subagents critiques it, references a world-famous photographer for *any* genre, draws annotations on
 the photo, optionally edits it, recommends a Fujifilm recipe, assigns a practice mission, and logs
